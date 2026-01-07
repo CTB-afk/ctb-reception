@@ -1,3 +1,4 @@
+Vector/Locations : -475.51, -665.55, 34.2
 <img width="2559" height="1079" alt="reception1" src="https://github.com/user-attachments/assets/acfa9c6f-fb66-4a80-9a6b-39da4b319d5f" />
 <img width="2548" height="1079" alt="reception2" src="https://github.com/user-attachments/assets/c8a2dd44-a242-49eb-b24a-935af037a533" />
 <img width="2559" height="1079" alt="reception4" src="https://github.com/user-attachments/assets/85f5f102-fe7f-46f9-a3e4-19564465f1f3" />

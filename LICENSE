@@ -1,21 +1,28 @@
-MIT License
+LICENSE 
+رخصة الاستخدام / LICENSE
 
-Copyright (c) 2025 CTB
+حقوق النشر (c) 2025 CTB_AFK
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+جميع أصول الماب، النماذج، والملفات المرتبطة بها هي ملك حصري لـ CTB_AFK.
+جميع ملفات السكربتات تظل ملكية فكرية لمؤلفيها الأصليين.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+أي شخص آخر **ليس له أي حق أو شراكة في هذا العمل**.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+يُسمح باستخدام هذا المستودع وملفاته للأغراض الشخصية، التجريبية، التطوير، وعرض الأعمال فقط.
+يُمنع تمامًا أي استخدام تجاري، بيع، نشر، إعادة توزيع، أو تضمين هذا الماب في أي مشروع ربحي بدون إذن كتابي صريح من CTB_AFK.
+
+نشر هذا الماب مجانًا لا يمنح أي حقوق تجارية لأي طرف آخر.
+
+---
+
+Copyright (c) 2025 CTB_AFK
+
+All map assets, models, and related files are the exclusive property of CTB_AFK.
+All script files remain the intellectual property of their respective authors.
+
+Any other person **has no rights or partnership in this work**.
+
+This repository and its contents may be used only for personal, experimental, development, or portfolio purposes.
+Commercial use, sale, redistribution, or inclusion in any revenue-generating project is strictly prohibited without explicit written permission from CTB_AFK.
+
+Free release of this map does not grant any commercial rights to any other party.
